@@ -1,0 +1,6 @@
+easyocr
+nudenet
+better-profanity
+numpy
+cv2
+matplotlib
